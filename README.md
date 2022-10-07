@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RogeSocial
+- 👀 I’m interested in becoming an backend developer
+- 🌱 I’m currently learning JavaScript
