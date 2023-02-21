@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RogeSocial
 - 👀 I’m interested in becoming an backend developer
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning databases
