@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RogeSocial
-- 👀 I’m interested in becoming an fullstack developer
-- 🌱 I’m currently learning Java Spring Boot
+- 👀 I’m looking for a job as a fullstack developer
+- 🌱 I’m currently building personal projects
