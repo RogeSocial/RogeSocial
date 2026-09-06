@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @RogeSocial
-- 👀 I’m looking for a job as a fullstack developer
-- 🌱 I’m currently building personal projects
+# 👋 Hi, I'm @RogeSocial
+
+💻 **Trained Fullstack Developer**
+🚀 **Co-Founder of AL Software Engineering**
+🛠️ Building my own company and developing apps & software for fun
+🌱 Always learning, experimenting and working on new projects
